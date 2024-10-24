@@ -1,9 +1,33 @@
 [
   {
-  "title": "Song Title",
-  "artist": "Artist Name",
-  "album": "Album Name",
-  "src": "URL or local path to the audio file",
-  "cover": "URL or local path to the album cover image"
+    "title": "Bau Lagibo",
+    "artist": "Nilav Nita",
+    "album": "Assamese",
+    "audio": "bau_lagibo_nilav_nita.mp3",
+    "cover": "bau_lagibo_nilav_nita.png"
+  },
+  
+  {
+    "title": "Godspeed",
+    "artist": "Camila Cabello",
+    "album": "English",
+    "audio": "godspeed_camila_cabello.mp3",
+    "cover": "godspeed_camila_cabello.png"
+  },
+  
+  {
+    "title": "Mirrors",
+    "artist": "Jordan Sandhu",
+    "album": "Panjabi",
+    "audio": "mirrors_jordan_sandhu.mp3",
+    "cover": "mirrors_jordan_sandhu.png"
+  },
+  
+  {
+    "title": "Teri Baaton Mein Aisa Uljha Jiya",
+    "artist": "Shahid Kapoor",
+    "album": "Hindi",
+    "audio": "teri_baaton_mein_aisa_uljha_jiya_shahid_kapoor.mp3",
+    "cover": "teri_baaton_mein_aisa_uljha_jiya_shahid_kapoor.png"
   }
 ]
