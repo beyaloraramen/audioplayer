@@ -1,0 +1,9 @@
+[
+  {
+  "title": "Song Title",
+  "artist": "Artist Name",
+  "album": "Album Name",
+  "src": "URL or local path to the audio file",
+  "cover": "URL or local path to the album cover image"
+  }
+]
