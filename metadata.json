@@ -1,33 +1,20 @@
-[
-  {
-    "title": "Bau Lagibo",
-    "artist": "Nilav Nita",
-    "album": "Assamese",
-    "audio": "bau_lagibo_nilav_nita.mp3",
-    "cover": "bau_lagibo_nilav_nita.png"
-  },
-  
-  {
-    "title": "Godspeed",
-    "artist": "Camila Cabello",
-    "album": "English",
-    "audio": "godspeed_camila_cabello.mp3",
-    "cover": "godspeed_camila_cabello.png"
-  },
-  
-  {
-    "title": "Mirrors",
-    "artist": "Jordan Sandhu",
-    "album": "Panjabi",
-    "audio": "mirrors_jordan_sandhu.mp3",
-    "cover": "mirrors_jordan_sandhu.png"
-  },
-  
-  {
-    "title": "Teri Baaton Mein Aisa Uljha Jiya",
-    "artist": "Shahid Kapoor",
-    "album": "Hindi",
-    "audio": "teri_baaton_mein_aisa_uljha_jiya_shahid_kapoor.mp3",
-    "cover": "teri_baaton_mein_aisa_uljha_jiya_shahid_kapoor.png"
-  }
-]
+{
+  "tag": [
+    {
+      "title": "Bau Lagibo",
+      "audioSrc": "https://github.com/beyaloraramen/audioplayer/raw/refs/heads/main/audio/bau_lagibo_nilav_nita.mp3"
+    },
+    {
+      "title": "Godspeed",
+      "audioSrc": "https://github.com/beyaloraramen/audioplayer/raw/refs/heads/main/audio/godspeed_camila_cabello.mp3"
+    },
+    {
+      "title": "Mirrors",
+      "audioSrc": "https://github.com/beyaloraramen/audioplayer/raw/refs/heads/main/audio/mirrors_jordan_sandhu.mp3"
+    },
+    {
+      "title": "Teri Baaton Mein Aisa Uljha Jiya",
+      "audioSrc": "https://github.com/beyaloraramen/audioplayer/raw/refs/heads/main/audio/teri_baaton_mein_aisa_uljha_jiya_shahid_kapoor.mp3"
+    }
+  ]
+}
